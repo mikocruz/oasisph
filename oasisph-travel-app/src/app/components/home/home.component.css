@@ -1,0 +1,7 @@
+.c-container {
+    position: relative;
+}
+#home-carousel {
+    position: absolute;
+    clip: rect(0, 1024px, 500px, 0);
+}
