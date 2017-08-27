@@ -1,0 +1,25 @@
+
+.img-carousel {
+    
+    min-height: 300px;
+    max-height: 600px;
+    width: 100%;
+    opacity: 1;
+    display: block;
+    transition: opacity 0.6s ease;
+    z-index: -1;
+    float: right
+}
+
+
+#logo {
+    height: 200px;
+    margin-top: 80px !important;
+    margin: auto;
+    display: block
+    
+}
+
+.about-us {
+    font-family: 'Raleway', sans-serif;
+}
